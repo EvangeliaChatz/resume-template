@@ -25,4 +25,4 @@ jobs:
         with:
           commit_message: Generate PDF
           branch: gh-pages
-          file_pattern: webpage/resume.pdf
+          file_pattern: EvangeliaCV.pdf
